@@ -1,0 +1,33 @@
+{
+  "name": "blog-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seed/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mewesley1984/Blog-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mewesley1984/Blog-Site/issues"
+  },
+  "homepage": "https://github.com/mewesley1984/Blog-Site#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.7",
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "express-handlebars": "^7.0.7",
+    "express-session": "1.17.3",
+    "handlebars": "4.7.7",
+    "mysql2": "^3.5.0",
+    "nodemon": "^2.0.22",
+    "sequelize": "6.32.1"
+  }
+}

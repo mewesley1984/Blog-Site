@@ -1,0 +1,29 @@
+[
+  {
+    "post_id": 1,
+    "user_id": 1,
+    "content": "I love this post",
+    "date": "04/20/1969"
+  },
+
+  {
+    "post_id": 1,
+    "user_id": 1,
+    "content": "Bruh, this post is garbage",
+    "date": "04/20/1969"
+  },
+
+  {
+    "post_id": 1,
+    "user_id": 2,
+    "content": "Seen this before",
+    "date": "04/20/1969"
+  },
+
+  {
+    "post_id": 2,
+    "user_id": 2,
+    "content": "Hey! You stole my post you $%^##",
+    "date": "04/20/1900"
+  }
+]

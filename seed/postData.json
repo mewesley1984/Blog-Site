@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": 1,
+        "title": "CNN",
+        "content": "It's run by commies!",
+        "date": "04/20/1969"
+    },
+
+    {
+        "user_id": 1,
+        "title": "Facebook",
+        "content": "Cool platform",
+        "date": "04/20/1969"
+
+    },
+
+    {
+        "user_id": 1,
+        "title": "Github",
+        "content": "Used for web developers",
+        "date": "04/20/1969"
+    },
+
+    {
+        "user_id": 2,
+        "title": "User 2 test post title",
+        "content": "This is a user 2 post",
+        "date": "04/20/1900"
+    }
+]
